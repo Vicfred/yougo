@@ -48,4 +48,86 @@
 得る,える,to obtain
 合計,ごうけい,total sum
 異なる,ことなる,to differ
+桁,けた,digit;magnitude
+十進法,じっしんほう,decimal number system
+含まれる,ふくまれる,to be composed of
+連続,れんぞく,succession;series;continuation
+作成,さくせい,creation;production
+縦2マス,たて２ます,2 rows
+横3マス,よこ３ます,3 columns
+マス目,ますめ,box in a grid
+転かす,こかす,to rotate
+一致,いっち,coincidence;match
+以下,いか,not exceeding;and below
+平方数,へいほうすう,square number
+最大,さいだい,greatest
+但し,ただし,provided that;but;however
+指します,さします,to represent;to identify;to nominate
+２乗,２じょう,power of 2
+１６進数,１６しんすう,base 16
+どちらも,どちらも,both;either
+どれか,どれか,one of;any of
+出来る限り,できるかぎり,as much as possible
+端,はし,edge;end;margin
+少なくとも,すくなくとも,at least
+間を開ける,あいだをあける,to leave space (between)
+並ぶ,ならぶ,to line up
+ので,ので,given that
+隣り合う,となりあう,to be adjacent to each other
+定義,ていぎ,definition
+賭す,とす,to assume;to suppose;to use;to take as;to regard
+割り切れる,わりきれる,to be divisible
+表記,ひょうき,written representation
+桁数,けたすう,number of digits
+偶数,ぐうすう,even number
+奇数,きすう,odd number
+個数,こすう,counter for numbers
+先頭,せんとう,first;head
+左右,さゆう,from left to right
+一列,いちれつ,row
+各,かく,each;all;every
+ずつ,ずつ,each;apiece;at a time
+単調,たんちょう,monotone
+減少,げんしょう,decreasing
+単調非減少,たんちょうひげんしょう,monotonous non-decreasing
+相違,そうい,difference
+条件,じょうけん,condition;requirement
+満たす,みたす,to satisfy a condition;to fulfill
+並び替える,ならびかえる,to rearrange
+数列,すうれつ,sequence
+可能,かのう,possible
+昇順,しょうじゅん,increasing order
+半径,はんけい,radius
+円,えん,circle
+面積,めんせき,area
+除く,のぞく,to remove
+要素,ようそ,element;component;item
+次元,じげん,dimension
+空間,くうかん,space
+点,てん,point
+座標,ざひょう,coordinates
+距離,きょり,distance
+となる,となる,to amount to
+すなわち,すなわち,that is; namely
+非負整数,ひふせいすう,non-negative integer;natural number
+最小値,さいしょうち,minimum value
+円形,えんけい,circular shape
+連なる,つらなる,to extend;to be connected; to be linked
+時計回り,とけいまわり,clockwise
+結果,けっか,result;consequence;therefore
+量,りょう,amount
+解,かい,solution
+一意,いちい,unique
+証明,しょうめい,proof
+定まる,さだまる,to become settled;to be fixed
+状況,じょうきょう,circumstances;state of affairs
+ちょうど,ちょうど,exactly;precisely;just
+順列,じゅんれつ,permutation
+繰り返し,くりかえし,repetition
+行動,こうどう,action
+活動,かつどう,activity;action
+得る,うる,to obtain;to win; to acquire
+最大値,さいだいち,maximum value
+価値,かち,value;worth
+容量,ようりょう,capacity
 無作為抽出,むさくいちゅうしゅつ,random sampling
