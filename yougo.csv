@@ -56,7 +56,8 @@
 作成,さくせい,creation;production
 縦2マス,たて２ます,2 rows
 横3マス,よこ３ます,3 columns
-マス目,ますめ,box in a grid
+マス目,ますめ,grid;box in a grid
+マス,ます,box (e.g. in a grid)
 転かす,こかす,to rotate
 一致,いっち,coincidence;match
 以下,いか,not exceeding;and below
